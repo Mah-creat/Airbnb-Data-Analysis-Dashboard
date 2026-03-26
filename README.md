@@ -6,7 +6,7 @@ Welcome to my **Airbnb Data Analysis & Dashboard** project! This project explore
 
 ## 📊 Dashboard Preview
 
-![Dashboard Screenshot](dashboard.png)
+<img src="dashboard.png" alt="Dashboard Screenshot" width="800">
 
 ---
 
