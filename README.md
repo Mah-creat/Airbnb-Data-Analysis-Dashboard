@@ -3,10 +3,18 @@
 Welcome to my **Airbnb Data Analysis & Dashboard** project! This project explores Airbnb listings data from multiple cities and visualizes key insights in a clean and interactive dashboard.
 
 ---
+## 🚀 Project Highlights
+
+- Interactive **Power BI dashboard** visualizing Airbnb listings  
+- Cleaned and analyzed datasets from **Chicago and New Orleans**  
+- Key market insights displayed with **charts and tables**  
+- Portfolio-ready project showcasing **data analysis & visualization skills**
 
 ## 📊 Dashboard Preview
 
-<img src="dashboard.png" alt="Dashboard Screenshot" width="800">
+<p align="center">
+  <img src="dashboard.png" alt="Dashboard Screenshot" width="900">
+</p>
 
 ---
 
@@ -52,19 +60,20 @@ Airbnb-Data-Analysis-Dashboard/
    - Total listings  
    - Listings by city  
    - Listings by room type  
-   - Listings by price bins  
+   - Listings by price Distributation
 3. Use the insights to **understand Airbnb trends** in different cities  
 
 ---
 
-## 💡 Insights
+## 💡 Key Market Insights
 
-Some of the key insights from this dashboard:
-
-- Most popular cities and neighborhoods for Airbnb listings  
-- Distribution of room types across cities  
-- Price trends and patterns for short-term rentals  
-
+| Emoji | Insight |
+|-------|---------|
+| 🏢 | **Chicago dominates listings** – 8,640 listings vs. 7,420 for New Orleans |
+| 🪙 | **Most listings are affordable** – approx. 72% priced below $200 |
+| 🏠 | **Entire homes/apartments make up the majority** – most inventory consists of entire homes or apartments |
+| 👥 | **Top host** – Host *Tigran* has more than double the listings of the runner-up |
+| 📈 | **Price vs. reviews pattern** – scatter plot shows a "convection" pattern, with high reviews concentrating on lower-mid prices |
 ---
 
 ## 🔗 Repository Link
